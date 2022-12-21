@@ -1,6 +1,6 @@
 ---
-title:  無法無天第一定理-機率思考心得主題
-linktitle: 無法無天第一定理-機率思考心得主題
+title:  無法無天第一定理-機率思考閱讀心得
+linktitle: 無法無天第一定理-機率思考閱讀心得
 date: '2019-05-05T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -9,7 +9,7 @@ weight: 1
 
 ## Goals
 
-賭博、摸彩、 擲銅板、 猜拳、 看股票 、 預測天氣、賽馬....等等，.生活中，充滿著的無一不是機率中的例子。但同時，也存在著機率謬誤，而我們卻容易忽略它。
+            賭博、摸彩、 擲銅板、 猜拳、 看股票 、 預測天氣、賽馬....等等，生活中，充滿著的無一不是機率中的例子。但同時，也存在著機率謬誤，而我們卻容易忽略它。
          原本以為機率是一項很抽象的事物，在閱讀這本書的前十一張後才發現，原來機率就只是我們生活中的現象觀察之結果，是一項很實際具體，很有根基的事物。我們生活中往往充滿了和機率有關的例子，而我們或多或少都有意無意應用它，甚或是操弄，但他做為工具、手段，,來誘引別人相信或支持自己的論調，抑或判段真相，我們有多少人真正能對機率真正聊若指掌？乃至不過於誤解，甚至放大其效，運用得當呢?
 我們可能還會嘗試或多或少的刻意忽略它。
         然而，書中也提到一件事情，「『理解機率』，本身就是個矛盾的詞」，因為，機率是如何呈現，本身就是隨機的、無規則的，人要如何理解未能有規律的事情，為一個方法，就是企圖找出規律，而這也正是人類發明｢機率」一詞的用途。不過，人類天生就尋求某種邏輯性，某種「模式」或者「規律」，而這樣的慾望，也讓我們發明"機率"，然而機率是真的能夠被理解的嗎?抑或者，我們所以為我們能理解的機率，它就真的代表所謂定義上的機率嗎?或者自然依循的邏輯和規律，並不能被文明所統和和預測，那麼發展出這門高深莫測的學問，還是個反直覺的領域，不僅也許很難讓人接近，還可能不太真實，可是又比想像中還常被運用到生活。那麼這麼說，是不是有需要懂得機率?也許就某種意義來說，應該是，但避免像書裡說的: 因不懂機率而被騙(例如:百貨公司促銷活動)那不免又會落入另外一個陷阱，讀懂機率就真的能懂得自然的定律嗎?如果自然的定律是注定無法懂得的，又或根本沒有，那麼我們又要如何學會真正的機率?
@@ -20,15 +20,6 @@ weight: 1
 
 如何破解這些錯誤，以及正確地解構生活中的機率案例，形成及其誤會的發生經過，正是此書所探討的議題。在書中還提到有很多違反機率思考的例子：例如:認定隨機的死亡與疫苗施打相關(後此謬誤)，低估生日的巧合度等或者錯判下雨的機率，只因不了解運作模型的原理等等，有了這層認知，你可以讀懂數據報導所代表的意義，可以知道機率如何與生活產生關係，也可以透過新的眼光來過濾，看出日常生活中蘊含的機率玄機，甚至透過這樣的思考來鍛鍊自己確認事物和其機率是否有被正確理解及運用，正確模擬的方式。
 
-
-## Topics
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+<!---  P.11L --->
+<!---  無法無天第三定律，百貨公司促銷活動。 --->
+<!--- 把連續發生的兩件事情視為有因果關係牽連而非獨立的。--->
