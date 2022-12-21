@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 title: 策略後果分析
 linktitle: 應對不確定性的可靠策略
-summary: Notes on Python data structures.
+summary: 應對不確定性的可靠策略
 weight: 2
 icon: python
 icon_pack: fab

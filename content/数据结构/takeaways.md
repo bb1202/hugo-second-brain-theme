@@ -1,6 +1,6 @@
 ---
-title: Takeaways
-linktitle: Takeaways
+title: 應對不確定性的可靠策略
+linktitle: 策略後果分析
 toc: true
 date: '2019-05-05T00:00:00+01:00'
 
@@ -8,12 +8,27 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+許多訊息指出今後五年是台灣最危險的時期，有人甚至建議每戶每人平時均應準備防災急難包，以備不時之需，根據機率思考第十三至十八章以及今日所學的內容，運用決策效用分析來判定，到底應不應該準備急難包呢? 這裡是詳細的該思考過程。
+      
+決定要準備急難包的人，比較傾向認為這一天到來的機率是高的，因此急難包效益大，可能是擔心有需要的一天到來，到時將不會無所準備。但相對的，這個對他們來說的長期負面現實，如果未實現，怎可能付出相對的成本，這個決定的結果要能趨於真實期望值，達到發揮效用，抵銷代價，要有戰爭發生。但若未準備則有可能付出代價，而此時長期負面現實所預期的效果未成真，就是賺到，因為沒如擔心的預期，反而是也一種收穫(多一種安心和保障)。
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+而相信長期正面現實的人則有可能不會準備，因為相信隨遇則安的生活，這種人傾向認為船到橋頭自然直，也不為未來和未確定的事情擔心，則因考量到急難包的成本，如果用到的機率不大，就不會有效用，因此就不會準備。
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+綜括來說，這裡面包含了兩項要素，一是對於戰爭發生的機率判斷高底的落差，二是這個對於準備所付出的擔心(恐懼與焦慮，擔心未來)是不是也是種成本。
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+如果長期正面現實被顛覆，不準備的人就會落得不知所措的下場，但如果長期負面現實未發生，而他們有所準備，他們會認為付諸了準備的心思成本，也是一種浪費與耗資，所以不划算，長期負面現實未發生，不只不會有所獲，還會有所損失，綜合這些情況，我覺得考量準備是否必須的基準點會在是否認同長期負面現實，以及急難包的效益(成本)包含了擔心是不是必要的，容易杞人憂天的人自然會比較認同長期負面現實機率，做好防護措施無論如何都會有幫助的，假定長期負面現實不發生，也是討個安心，在遇到危機的情況下，誰都會很慌張，不欲拘泥於小節的人也不差這一個行動來保護自己的安危，再來隨遇而安，但無論是誰都無法改變別人的行為，雖然危機時誰都會有急難包的需要，而且能防範於未然也不會待需要時在乾著急，可是人世無常，我不得不主張世界上還是對各式各樣的人，基於不同的思想去運用不同判定機率的標準。我會有這樣的主張是基於每個人有每個人的決定，不應以強迫他人的方式來執行自己認為更好的決定。這是一種最基本的權利自由。
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+可能你所認為的好，在他來說未必是，可能是你認為未雨綢繆，甚至要求他跟著做，他只覺得擾亂當下生活，杞人憂天而過顯焦慮。當然如果就國家或存亡人數的角度來講，大家是一個整體，能活多點人越好，越有預防就越保障更多人的人身安全，但是就個人或者生命進程的角度思考，活下去人也未必能獲得更好的人生，我認為這只是一種選擇，不是必要的追求，但不是主張積極放棄生命，而是在每一刻積極享受當下的前提下即使沒做準備而喪生也不必認為是壞事，這不是以一種消極或悲觀的態度如是說，而是人生很難從單一次的結果斷定一個決定做得好不好，活下來也不一定就是能順遂平安，誰能夠為誰保證，活下去不會帶來更不好的後果，更悲慘的遭遇，很可能只是延遲，邁向更悲慘的命運，而卻是第一次活下來以後無可避免的後果，所以，很難斷定活下來會不會就一定是好的，總之，這是每個人的生命，各自有不同走法，不應強加自己的觀念於別人，強迫別人遵從，也許那些沒有活下去的人，他們終極的立場都維持活在當下的心態，從不擔心未來，沒花時間焦慮，與其在逃跑的路途中遭遇，他們能夠在一開始時就不會有磨難，難以斷定言不好，也許他們活下去了會更糟，而你沒能為他們接下來的人生負責，既然這樣，也許就一開始來說也沒有道理為他們做決，也沒有理由要影響別人的人生信念，改變他的做事風格。
+
+就像有人會說父母不該要以愛為名去左右孩子的事情，你不能因為自以為這樣對他們好就幫他做決定，甚至是強迫，當然還是可以勸說，但我認為他們有權為自己的人生負責，如果他們決定不做準備，那結果也要由他們承擔。
+
+起碼他們到死都還是堅持自己的理想生活方式。
+
+而且我也不認為沒有準備急難包而遭遇不幸的人，謹守自己的信念，會因而影響到有準備的人的人生任何，就像他們也沒有嘗試去說服你不準備，所以你也沒有理由去在意。
+
+就算我個人支持準備，還是會認為別人有別人的自由。設想到世界上可能什麼想法的人都會有，我認為這只是一個個人層次的選擇，沒有必要擴張到全人現在「應該」要如何的決定。
+
+  
+  所以到了最後，我還是會選擇支持世界上存在著不同種的人，基於每個人都有的選擇的權利以及決定自身行動的自由，不干預以及尊重他人，這樣的想法，即鎖定的信念之下，我不會主持根據任何一方的決定來強制影響認為不應該如此的人。
+
+
