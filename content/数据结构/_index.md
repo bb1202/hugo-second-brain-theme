@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 数据结构
-linktitle: 数据结构
+title: 策略後果分析
+linktitle: 應對不確定性的可靠策略
 summary: Notes on Python data structures.
 weight: 2
 icon: python
