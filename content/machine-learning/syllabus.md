@@ -1,6 +1,6 @@
 ---
-title: Syllabus
-linktitle: Syllabus
+title: 評論學術誠信案例
+linktitle: 評論學術誠信案例
 date: '2019-05-05T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -9,24 +9,30 @@ weight: 1
 
 ## Goals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+根據上次的討論，倫理似乎沒有一定的原則和標準，但卻有許多人針對學術誠信訂出了許多相應的準則與防範措施。  
+        舉例而言，就光  讀者投書｢上下交征利、氾濫的學術欺詐──台灣學界房間裡的大象」 這篇文章，就不只說到學術研究的誠信金標準，也提到國內外的違反學術誠信案件，更說明論文抄襲只是學術詐欺上冰山的一角，並列舉出許多違反學術誠信的行為。從而可以看見，有學術衍生而來的詐欺，可說不勝防，我相信這許多的標準是源自於一次次的修訂以及常常出現案例所帶來，因應問題而衍生的新規則，從給大學生的參考手冊─在高等教育課堂中實踐學術誠信一文，提供了五項誠信基礎，也可以看出，許多原則陸續補上，是由於過內學生認知水準與學術界的倫理議題越來越得到重視，換言之，也越來越需要得到關注。
+        雖然已我的能力，還沒辦法解釋此現象的來源，但我估計會與堤昌學術所帶來的榮譽有關聯，也與社會重視學歷的趨勢，導致大學生增加，卻不見得欲學習的現象相關，因此，此時再提出許多的誠信倫理，如果不欲謹守著道德的人，自然也不會在意。
+       偶一為之的違反道德，算不算觸犯學術倫理誠信原則 ?不得已的情況算不算? 惡意為之，卻意圖隱藏，而沒被發現的違反學術倫理行為，還算不算違反誠信原則? 沒有意圖，卻湊巧貌似違反學術倫理的行為，又算不算違反誠信原則 ? 這是此次爭論的議題。
+        我認為，從人類歷史的角度上來講，要想出主題相近的概念並不難，畢竟人類思想的演進是相當的，在通訊還不發達，中西方也還未開通的年代，中國儒孔子的思想，就與蘇格拉底相近，我認為在人類整個演化的進程，思想出現相同的比例，是高的，畢竟人有普同性，許多人生經歷，可能衍生的際遇或可能經歷的處境，會激發的感受和想法是可能相同的，只是思維的表達上稍有不同。在歷史上關於微積分與數理上的重要概念發明，科學家們彼此之間也存在著爭吵，孰先孰後，到底由誰發明，總是各持己見，可見人們對於思想的榮譽很看重，也會產生相近的思想，這兩點在歷史上面從來都沒有變過。甚至可說是在學術倫理創生以前就從在了。
+        因此，這麼多的模糊地帶讓人質疑倫理的價值是必然的，因為畢竟它是由人訂出來的，人不是完美的，一開始無法一次完善也是必然的，可是在訂出準則之後是必然衍伸出鑽漏洞的人與不願符應標準的人也得試著思考要如何應對。如果從這些人的行為是否圖謀心懷不軌，惡意而為，來判定其是否不願意謹守道德原則而違反學術倫理，很快就會落入其意圖是否能從表面行為被判定出來，或也許其沒有被發現而成為落網之魚的陷阱，同時基於上一段所說到人類思想是有可能相同的論點看來，無法由意圖(行為動機)來論斷其是否違反學術倫理，必須由別的方向來說明之。
+        我想還原到學術倫理一開始的存在及是為了篩選學術界能接受的作品，來維持學術的正當性，如果把它看成是一項加分而不是扣分的機制，為符合標準的論文增添認證，而不是要求沒一件作品都必須滿足誠信原則，就可以大幅減少為了通過審查而造假的狀況。
+        如此一來，對於那些無法良善體現學術精神而不被納入的作品，即使違反學術倫理，似乎也不是學者們要擔心的，畢竟學術其實可視為只是個人追求成功與社會地位的管道之一 ，充其量，也不是所有人都在意的。學者們真正在意的只是那些不實的作品洗刷掉自己的研究價值跟意義，並不是在意違反者的個人道德與人格，所以，在我看來學術倫理的違反必須由人為論斷的標準面及意圖道德面來分別，可學術界真正應該在意的只有前者，後者則不會影響學術界內，因此學術倫理在意的只需是作品的真實性而非違反者的個人特質及動機。而行動違反與否，一眼就可看出，因為違反誠信原則的表準已經訂在那裡，即使不盡完整，也行之有年，對於願意遵守的人是很明白而具有威效的。
+         顯然的漏網之魚，在圈外違反學術倫理，學術界的人是不必在意的。學術倫理存在的目的不是為了讓全世界的人謹守道德倫理，僅是為了維護學術界的信效力與從高性，因此如有素行不良之人無法服膺學術界的原則標準而被學術界淘汰，其行為的不當性不會影響學術界的地位即可，誠信原則只要確保能通過檢核的作品都是符應標準的即可，我認為在這個範疇以現在的學術制度是能可做到的。當然，規則是人訂的，一定會有漏洞，如能積極修正，也在出現新的爭議案例時修部漏洞，才能使這張網變得更完善與提升防備力。
+          
+      至於那些立意良善的，卻不小心與別人重複的作品，才是真正棘手的難題。
+         
+         經過了許多討論，我們對於刻意為之的意圖在違反學術倫理的行為中扮演的地位，以及誠信原則是否可涵括學術倫理的所有問題等議題提出了不同意見，也整理和分析了給大學生的參考手冊─在高等教育課堂中實踐學術誠信一文中的案例， 如下: 
+        
+         根據案例3,5,8，小桃的文章若發表，違反不得造假的學術倫理，小潔與艾倫有違反不得抄襲的疑慮，而小林的發表只是個人顯示個人看法，可視為心得，不會影響學術誠信，也沒有違反學術倫理。此外兩人都遵守原則執行，只是事後觀感不同而已，小桃儘管預期之後會改回來，此次舉動也已經影響了成效判定水準，還是沒有道理為了不要遲繳交而這麼做，何況遲交是有礙於個人因素，而不是不可抗力之故，如此會對努力的同學不公平，也不尊重誠心指導的教授。我認為期若有個人因素而無法交出作業的情況，應誠實以告，並接受扣分的處分。而小潔與艾倫會使老師無法信任同學與公平判斷每個人的能力差異，但艾倫可能礙於友情存續的風險再加上同情小潔，在面臨關係考量與現實考驗的情況下，很難做出抉擇。然而在我看來，如果艾倫真心為了小潔，也不應該幫助他，畢竟如果他的狀況使他面臨在學習中實際上無法應付的影響，或許應該選擇別的方式克服，如果只是把功課應付，也讓教授誤以為他的情況還可以，不僅不是長久之計也無法真的使他得到幫助。
+  
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+       據此，我認為關於這次學術倫理的議題，從文章中以及討論看見，雖然還有很多爭議的空間，但學術誠信的議題核心信念在於，學術的價值必須以全人類的福祉提升為目標，因此才必須秉持以誠信為原則的初衷。雖然看似是意以強制的要求框架外在行為的表現，但其實意在激發和內化為能發自內省的品性與德行。它雖會受人性弱點的誘惑，但它亦能使人展現並凸顯能克服這點的毅力與堅持，形成強化的研究精神的選擇，也是使其研究更具價值的行動。
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+      
+      
+      
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+      
 
-## Topics
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+       

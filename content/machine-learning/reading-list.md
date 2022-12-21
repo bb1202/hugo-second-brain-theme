@@ -1,6 +1,6 @@
 ---
-title: Reading List
-linktitle: Reading List
+title: 反向解讀科普文章
+linktitle: 幽默可能成為婚姻殺手？
 date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
@@ -8,26 +8,23 @@ weight: 2
 
 A recommended reading list for the course.
 
-## Books
+## 評論中華心理學期刊
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+中華心理學刊心理學任意門，談到雖然幽默感在許多時候可以成為生活與人際互動中的滋潤，但在夫妻關係中「卻可能成為婚姻的殺手」，其中引註周玉慧於2018年3月1日於中華心理學刊6卷1期第33-55頁提出的研究作為基地。
+        這份報告打破過往對於幽默感能助於減少衝突並促進關係的認知，更細緻地分化出不同幽默的使用動機以及類型，並主張這是能夠主宰婚姻成敗的關鍵因素。在專欄文與原文章都提到許多研究證明了幽默感於生活與人際交流間的重要性，但仍堅持動機與使用類型會造就對婚姻不同程度的充實感之差異。例如：
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+        研究結果顯示「夫詼諧自貶型」及「雙少用幽默型」的夫妻對於婚姻的充實感高、後悔度低，而「妻嘲諷自貶型」的夫妻感情最差，因而推斷幽默感為婚姻關係的殺手。
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+        從這段描述中可以看出，藉由此觀察結果做出幽默感會妨害婚姻這種結論有點太過武斷，並不是幽默感本身摧毀了婚姻，而是幽默感的使用動機和類型，至於何謂幽默感的使用動機與類型，依照周玉慧的分析，則可以找出不同例子。比如利他動機、立關係動機以及利己動機;自我貶抑、挖苦嘲諷以及詼諧戲謔等。另，又把夫妻間的幽默感類型分為夫詼諧自貶型、雙多元運用、雙少用幽默及妻嘲諷自貶型。
+       我相信在日常生活中，過度使用幽默感也會造成不好的影響。所以在讀完這篇論文摘要，以及所延伸而成的專欄後，我覺得最重要的收穫，即是從夫妻的互動模式中，探討幽默感的運用型態、對於婚姻所造成的影響時，發現測量內容包括「幽默動機、幽默型態、婚姻品質及其他人口控制變項」時得到的結果顯示，幽默感的動機與型態皆可歸納三種，而「使用效果的變因則與「性別」有關」。
+        進一步說明，在性別與幽默感運用類型和幽默動機的交互作用中，幽默運用類型為「夫詼諧自貶型」或「雙少用幽默型」和幽默動機為「利關係動機」的夫妻相較於其他變項的確擁有較高品質的婚姻，這也顯示了華人對於夫妻之間使用幽默感性別認知的差異。
+         也許認知上男性使用幽默調節氣氛較於女性合理，因為男性本來就擁有比較多權威，適度自貶不會造成身分認同的危機，也不造成有地位的貶低，反而會顯得寬宏大肚，也能帶來軟化身段的效果，相較於女性，原先就處於自我的貶損在權威角色中應該如是者的位置，甚至可能是必須，不會被視為自願、抑或犧牲以求取關係和睦，所以不會使雙方感到舒適或造就情感的升溫效果。總結下來造成婚姻本質差異的是男女的性別而非幽默感本身的問題，而如果雙方使用幽默感的出發點，都是基於對於關係的利益，彼此仍然有向心力，而不是基於人際交換的自我貶損，會對於感情的順遂頗有幫助，而不僅是造成殺傷力。總而言之影響的正負取決於幽默感型態與動機類型等變因，而不是有或無的問題。
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+原始論文：周玉慧，中華心理學刊；60卷1期（2018/03/01）P33-55
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
-
-## Videos
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+原始論文參考資料：
+何茉如、林世華(2000)。國中生幽默感對於生活壓力、身心健康之調節作用。教育心理學報，32，123-156。 
+李新民、謝青曇(2007)。職場幽默與心理健康之相關研究：以幼兒教師為例。教育心理學報，38，375-396。 
+李蘭、江宜珍、邱玉蟬、鄭其嘉、吳文琪、楊蕙如(2008)。國中生的幽默概念及表現類型：焦點團體討論結果。台灣公共衛生雜誌，27，519-529。 
+周玉慧(2009)。夫妻間衝突因應策略類型及其影響。中華心理學刊，51，81-99。 
+周玉慧、謝雨生(2009)。夫妻間支持授受及其影響。中華心理學刊，51，215-234。 

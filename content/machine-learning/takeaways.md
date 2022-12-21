@@ -1,18 +1,25 @@
 ---
-title: Takeaways
-linktitle: Takeaways
+title: 專案介紹
+linktitle: 華德福高中畢業專題
 date: '2019-05-05T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+本專文是慈心華德福高中之畢業專題，完成年度為109-110。由謝喜如老師及謝易霖老師的指導，集結作者自身經驗以及閱讀資料的整理，作為青春時期我與心理相遇的證據。撰寫過程中，接受老師關於完稿呈現、報告形式與書寫建議；過程中可以做的採訪、有關個人經歷鋪排、書籍資料的整理與爬梳;努力方向等等，都受老師提供的建議與支持鼓勵，在此支持下，做書面50000自完稿的產出與15分鐘口頭報告，呈現自己在過程中所學收穫與消化過的知識。
+本專文共分為四個段落及總結，階段間代表的是發想過程順序，而非最終劃分。章節的鋪排是依筆者的心理順序，內容順應生命歷程及思緒進行的的方式組織，並未特意劃分，因此介紹需要特意編排出的四階段所包含的意義是準備期的工作進行順序，以及不同核心之間發展的先後順序，但最終一並融入到全文當中：
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+第一階段　為整理自己的人生經驗，書寫疑問與本報告的探討目的、預期的意義等等。本段落主要的參考的是查爾斯．麥飛的《別在夢中沉睡》  。受《對話的力量》一書啟發，將核心信念建築在行為是了解自己及他人的內心最直接的線索，而行為引起我們注意的方式是借助情緒提醒，因而掌握住情緒的關鍵，就能好好地把握認識自己的機會。
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+第二階段  包含綜括閱讀資料的整理、嘗試輸出自己的信念背景與理論之間的連結。以《童年情感忽視》一書為根基探討自己的經歷，並藉以阿德勒理論為主，榮格理論為輔的方式，梳理自己的理解思緒。
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+第三階段　藉由小說閱讀與人物連結和進行訪談開始由內在轉為對他人的理解和認識。應證自己的觀察是否為普遍合理的概念。藉由將《心靈書寫》原型結合外化概念轉換成敘述上應用於傾聽，來練習理解他人。
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+第四階段　是生活上的實踐與轉化，總整理和回顧生活的向度，並佐以《鏡子練習》抽取出核心要素：實踐與正面能量，提出方案計畫與系統性執行紀錄，就運動、飲食等物理層面執行一連串系統性的計劃。從理論、資料，藉此了解他人、利用傾聽練習做為訪談技法、閱讀、向外、得到大多數人經驗與理論的符應性、再到生活執行層面，消化故事中人物及訪談獲得的靈感，及認識他人的世界，最後統整書中所汲知識，形成內容整理並建立自己人生需要的改變架構，這是一趟完整的歷程。最後總結這一過程中所經歷到的以及收穫所學，將這個過程紀錄於此報告呈現。並反思這一段時間所有的心路以及回顧。
+
+這篇報告不只是作為我對心理學的初探，也是強化我對於認識生命、人的樣貌以及踏上心理這條路的動機。為了瞭解人心，我先是回首了青春，整理了一路以來的危機、想要理解的經驗，再以書籍協助自己緩解，連結心理學知識，最後，提出想要緩解的現狀與目標，進行改變，我全面地蒐羅各種知識。對於我建構對個理論的認知也是很重要的階段。除了對各學派理論有最基本的認識，也對心理世界奇妙之處有所經驗。因此本專文對於我的意義，可能比對於其他人大。其中也有一部份探討我與心理學的緣分，最終直到真的建立關係，我對它的困或、理會與迷惘，都仍然呈現於中。本報告可說是常識非常多心理方面知識實踐的消化與探求，環繞著一詞語的使用：情緒。主要是以作者自身體會與對人生的認識為基準，如何與內心自我共處等議題，講述中涵蓋的並非心理專業領域上習慣定義的名詞。
+
+由於本專文創作期間，作者有一大部分時間處於青少年階段，濃厚的憂鬱色澤相當顯著，但也從中拼湊出了可以成為現在進入心理世界持續探討的道路。最終找到自己。
+
+
